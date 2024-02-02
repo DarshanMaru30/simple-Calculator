@@ -1,0 +1,49 @@
+body {
+  background: #91E9FC;
+}
+
+.box {
+  background: black;
+  width: 400px;
+  margin: 100px auto;
+  border-radius: 30px;
+}
+
+.box .screen  input {
+  background: #D7E0E3;
+  margin: 30px;
+  margin-top: 45px;
+  margin-bottom: 0px;
+  padding: 10px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  width: 320px;
+  font-size: 35px;
+  border-radius: 5px;
+  text-align: right;
+}
+
+.keybord {
+  text-align: center;
+  padding: 30px;
+}
+
+.key {
+  background: #D7E0E3;
+  border-radius: 5px;
+  margin: 7px;
+  width: 65px;
+  height: 65px;
+  font-size: 25px;
+}
+
+.orange {
+  width: 150px;
+  background: #FF3D00;
+  color: white;
+}
+
+.red {
+  background: #FF1A1A;
+  color: white;
+}
